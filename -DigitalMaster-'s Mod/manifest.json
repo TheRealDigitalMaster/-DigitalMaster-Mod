@@ -170,8 +170,7 @@
                 },
                 "light":
                 {
-                    "image": "wallpaper/video.webm",
-                    "first_frame": "wallpaper/first_frame.jpeg",
+                    "image": "wallpaper/light.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
